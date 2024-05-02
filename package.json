@@ -1,5 +1,5 @@
 {
-  "name": "travel-advisor",
+  "name": "Trip Hub",
   "private": true,
   "version": "0.0.0",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@react-google-maps/api": "^2.7.0",
-    "axios": "^0.26.1",
+    "axios": "^1.6.8",
     "google-map-react": "^2.1.10",
     "moment": "^2.29.2",
     "react": "^17.0.2",

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import logo from '../img/logo.svg';
+import logo from '../img/logo2.jpg';
 import { Link } from "react-router-dom";
 
 const Navbar = ({ sticky, border }) => {

@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Autocomplete } from "@react-google-maps/api";
-import logo from '../../img/logo.svg';
+import logo from '../../img/logo2.jpg';
 
 const Header = ({setCoordinates}) => {
     const [search, setSearch] = useState(false);
